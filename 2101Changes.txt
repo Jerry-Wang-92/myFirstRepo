@@ -1,0 +1,31 @@
+What is the target audience? Add into the description 
+
+What is account manager? Actor
+
+Isit an actor, assumption as a user not as a system
+
+Glossary needs to clarify what is the account manager use case actors - Done (Changed to Accounts Management System)
+
+Recover account name and recover password.
+If Both account name and password forgotten
+
+Fix extend arrow for extending in view profile page - Done
+
+Fix In game cash link with coin
+
+Fix and Daily mystery box link with daily bonus.
+
+Fix and add In game items glossary
+
+Link change email to send email for use case diagram -Done (Did for change password also)
+
+Double check on non-functional requirement 
+For color blind .
+
+Difference between gain coin and gain daily coin. 
+
+After generate route , use case for start competition and end competition - Done (Changed competition to game)
+
+Demonstration phase add to Gantt chart
+
+test
